@@ -57,3 +57,24 @@ openupm add com.dbrizov.naughtyattributes
 * [UPM Git Extension](https://github.com/mob-sakai/UpmGitExtension)
 * [exists in both](https://forum.unity.com/threads/unity-collections-exception.596680/) 
 * [Tutorial: Working with Custom Packages in Unity](https://nagachiang.github.io/tutorial-working-with-custom-package-in-unity-2019-2/#)
+
+## Asset
+- [Clean Settings UI](https://assetstore.unity.com/packages/tools/gui/clean-settings-ui-65588)
+
+---
+## To-do
+- Music Visualizer
+- https://assetstore.unity.com/packages/tools/animation/book-page-curl-55588
+- https://unitylist.com/p/wqq/UI-Table-View-For-Unity
+- https://docs.unity3d.com/Packages/com.unity.localization@0.5/manual/StringTables.html
+- https://www.reddit.com/r/Unity3D/comments/dmxxai/ui_drop_shadow_script/
+- https://github.com/vovgou/loxodon-framework
+- https://zhuanlan.zhihu.com/p/370695310
+- https://danielilett.com/2019-08-05-unity-tips-1-garbage-collection/
+- https://zhuanlan.zhihu.com/p/25306993
+- https://zhuanlan.zhihu.com/p/141032986
+- https://blog.csdn.net/yangyy753/article/details/47025205
+- https://www.raywenderlich.com/9454-introduction-to-unity-unit-testing
+- https://videlais.com/unity-tutorials/
+- 
+
