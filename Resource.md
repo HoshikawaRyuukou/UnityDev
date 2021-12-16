@@ -10,3 +10,6 @@
 
 ### Font
 - [中文免費字體](https://mrmad.com.tw/tag/%E4%B8%AD%E6%96%87%E5%85%8D%E8%B2%BB%E5%AD%97%E9%AB%94)
+
+### Audio
+- [魔王魂](https://maou.audio/)
