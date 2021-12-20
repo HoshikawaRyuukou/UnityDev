@@ -1,6 +1,9 @@
 ## Data
 * [JSON .NET For Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity)  
 openupm add jillejr.newtonsoft.json-for-unity  
+com.unity.nuget.newtonsoft-json
+* [Newtonsoft.Json-for-Unity.Converters](https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters)    
+openupm add jillejr.newtonsoft.json-for-unity.converters
 * [UniClipboard](https://github.com/sanukin39/UniClipboard)
 
 ## Async
