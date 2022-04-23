@@ -1,6 +1,9 @@
 - [Dev](https://github.com/HoshikawaRyuukou/UnityDev/wiki)
-- [Resource](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Resource.md)
+- [Architecture](https://github.com/HoshikawaRyuukou/UnityDev/wiki)
+- [Test](https://github.com/HoshikawaRyuukou/UnityDev/wiki)
 - [Package](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package.md) 
+- [Resource](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Resource.md)
+
 
 ### Unread
 - [2D animation in Unity - The PERFECT workflow](https://www.youtube.com/watch?v=vLDK0eHwsho)
