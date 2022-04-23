@@ -1,9 +1,21 @@
 ## Localization
-- [Localization](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package/Localization/Localization%20(Offical).md) (Offical)
+* [Localization](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package/Localization/Localization%20(Offical).md) (Offical)
+
+## Async
+* [UniTask](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package/Async/UniTask.md)  
+
+## Editor
+* [UniPlayButtonRed](https://github.com/baba-s/UniPlayButtonRed)
+* [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)  
+openupm add com.dbrizov.naughtyattributes
 
 
 
 
+
+
+
+-----------------------------------------------
 
 
 ## Data
@@ -14,10 +26,9 @@ com.unity.nuget.newtonsoft-json
 openupm add jillejr.newtonsoft.json-for-unity.converters
 * [UniClipboard](https://github.com/sanukin39/UniClipboard)
 
-## Async
-* [UniTask](https://github.com/Cysharp/UniTask)  
-openupm add com.cysharp.unitask
 
+
+## Rx
 * [UniRx](https://github.com/neuecc/UniRx)  
 P.S. [UniRx从入门到放弃](https://stonelzp.github.io/unirx-learning-note/)
 P.S. [UniRx官方入门文档](https://blog.csdn.net/JianZuoGuang/article/details/101937132)  
@@ -40,23 +51,12 @@ P.S. https://www.shibuya24.info/entry/dotween_async_await
 ## Dialogue 
 * [YarnSpinner-Unity](https://github.com/YarnSpinnerTool/YarnSpinner-Unity) - https://openupm.com/packages/dev.yarnspinner.unity/
 
-## Network
-* Mirror
-* [RestClient](https://github.com/proyecto26/RestClient) 
-
-## Mobile
-* [Unity Native Gallery Plugin](https://github.com/yasirkula/UnityNativeGallery?fbclid=IwAR00f3DmhFORSyHS_9rMbgUzvQhz0RCeTJu_yomahn1qgV8vE3jAz9seYhQ)
-
 ## UI
 * Data Renderer 2D
 * [SoftMaskForUGUI](https://github.com/mob-sakai/SoftMaskForUGUI)  
 P.S. [那些總是叫不出名字的 UI Components](https://yingchencheng.medium.com/%E9%82%A3%E4%BA%9B%E7%B8%BD%E6%98%AF%E5%8F%AB%E4%B8%8D%E5%87%BA%E5%90%8D%E5%AD%97%E7%9A%84-ui-components-display-%E7%AF%87-1775efda354f)
 
-## Editor
-* [UniPlayButtonRed](https://github.com/baba-s/UniPlayButtonRed)  
 
-* [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)  
-openupm add com.dbrizov.naughtyattributes
 
 ## Package
 * [Unity中 .asmdef文件的作用](https://zhuanlan.zhihu.com/p/139090680)
