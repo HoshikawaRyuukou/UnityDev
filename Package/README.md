@@ -18,6 +18,13 @@
 * - [Audio tutorial for Unity: the Audio Mixer](https://www.raywenderlich.com/532-audio-tutorial-for-unity-the-audio-mixer)
 - [The right way to make a volume slider in Unity](https://johnleonardfrench.com/the-right-way-to-make-a-volume-slider-in-unity-using-logarithmic-conversion/)
 
+## Data
+* [Newtonsoft Json](https://docs.unity3d.com/Packages/com.unity.nuget.newtonsoft-json@3.0/manual/index.html) (Offical)           
+com.unity.nuget.newtonsoft-json@3.0
+* [Newtonsoft.Json-for-Unity.Converters](https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters)    
+openupm add jillejr.newtonsoft.json-for-unity.converters
+
+
 ## Localization
 * [Localization](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package/Localization/Localization%20(Offical).md) (Offical)
 
@@ -35,13 +42,6 @@ openupm add com.dbrizov.naughtyattributes
 -----------------------------------------------
 
 
-## Data
-* [JSON .NET For Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity)  
-openupm add jillejr.newtonsoft.json-for-unity  
-com.unity.nuget.newtonsoft-json
-* [Newtonsoft.Json-for-Unity.Converters](https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters)    
-openupm add jillejr.newtonsoft.json-for-unity.converters
-* [UniClipboard](https://github.com/sanukin39/UniClipboard)
 
 ## Addressables
 - [Basic](https://medium.com/@badgerdox)
