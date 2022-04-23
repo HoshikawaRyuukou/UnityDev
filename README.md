@@ -1,8 +1,8 @@
-## [Architecture](https://github.com/HoshikawaRyuukou/UnityDev/wiki)
+## [Architecture](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Architecture/README.md)
 - 紀錄研究過的架構與設計概念
 - 目前用的比較上手的模式
 
-## [Design Pattern](https://github.com/HoshikawaRyuukou/UnityDev/DesignPattern.md)
+## [Design Pattern](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Design%20Pattern/README.md)
 
 ## [Test](https://github.com/HoshikawaRyuukou/UnityDev/wiki)
 
