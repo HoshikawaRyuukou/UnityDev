@@ -1,8 +1,21 @@
-## Localization
-* [Localization](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package/Localization/Localization%20(Offical).md) (Offical)
+## Dependency Injection
+* [VContainer]()
+
+## Rx
+* [UniRx]()
 
 ## Async
 * [UniTask](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package/Async/UniTask.md)  
+
+## Messaging 
+* [MessagePipe]
+
+
+## Animation
+* [DOTween]()
+
+## Localization
+* [Localization](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package/Localization/Localization%20(Offical).md) (Offical)
 
 ## Editor
 * [UniPlayButtonRed](https://github.com/baba-s/UniPlayButtonRed)
@@ -45,8 +58,6 @@ P.S. [How to avoid Dependency Injection constructor madness?](https://stackoverf
 https://openupm.com/packages/com.demigiant.dotween/  
 openupm add com.demigiant.dotween  
 P.S. https://www.shibuya24.info/entry/dotween_async_await
-
-
 
 ## Dialogue 
 * [YarnSpinner-Unity](https://github.com/YarnSpinnerTool/YarnSpinner-Unity) - https://openupm.com/packages/dev.yarnspinner.unity/
