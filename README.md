@@ -15,7 +15,7 @@
 
 ## [UI/UX](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/UI-UX/README.md)
 
-## [Resource](https://github.com/HoshikawaRyuukou/UnityDev/Resource.md)
+## [Resource](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Resource.md)
 - CC0 / Free / 可商用
 
 ## [Inspiration](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Inspiration/README.md)
