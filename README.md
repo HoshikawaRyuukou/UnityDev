@@ -10,4 +10,4 @@
 ## [Resource](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Resource.md)
 - CC0 / Free / 可商用
 
-## [Other]
+## [Other](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Other.md)
