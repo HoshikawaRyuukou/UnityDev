@@ -10,9 +10,13 @@
 ## Messaging 
 * [MessagePipe]
 
-
 ## Animation
 * [DOTween]()
+
+## Media
+* [AudioMixer]()
+* - [Audio tutorial for Unity: the Audio Mixer](https://www.raywenderlich.com/532-audio-tutorial-for-unity-the-audio-mixer)
+- [The right way to make a volume slider in Unity](https://johnleonardfrench.com/the-right-way-to-make-a-volume-slider-in-unity-using-logarithmic-conversion/)
 
 ## Localization
 * [Localization](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package/Localization/Localization%20(Offical).md) (Offical)
@@ -39,7 +43,12 @@ com.unity.nuget.newtonsoft-json
 openupm add jillejr.newtonsoft.json-for-unity.converters
 * [UniClipboard](https://github.com/sanukin39/UniClipboard)
 
+## Addressables
+- [Basic](https://medium.com/@badgerdox)
+- [僕はそろそろResourcesフォルダを卒業しようと思う](https://light11.hatenadiary.com/entry/2020/07/29/202755)
 
+## TextMeshPro
+- [TextMeshPro Anatomy](https://gametorrahod.com/textmeshpro-anatomy/)
 
 ## Rx
 * [UniRx](https://github.com/neuecc/UniRx)  
