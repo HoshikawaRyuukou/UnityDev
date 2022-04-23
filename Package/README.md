@@ -1,3 +1,11 @@
+## Localization
+- [Localization](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package/Localization/Localization%20(Offical).md) (Offical)
+
+
+
+
+
+
 ## Data
 * [JSON .NET For Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity)  
 openupm add jillejr.newtonsoft.json-for-unity  
@@ -27,8 +35,7 @@ https://openupm.com/packages/com.demigiant.dotween/
 openupm add com.demigiant.dotween  
 P.S. https://www.shibuya24.info/entry/dotween_async_await
 
-## Localization
-- [How To Add Support For Multiple Languages In Unity](https://www.youtube.com/watch?v=lku7f4KNFEo)
+
 
 ## Dialogue 
 * [YarnSpinner-Unity](https://github.com/YarnSpinnerTool/YarnSpinner-Unity) - https://openupm.com/packages/dev.yarnspinner.unity/
