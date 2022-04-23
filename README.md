@@ -4,20 +4,20 @@
 
 ## [Design Pattern](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Design%20Pattern/README.md)
 
-## [Test](https://github.com/HoshikawaRyuukou/UnityDev/wiki)
+## [Test](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Test/README.md)
 
-## [Package](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package.md)
+## [Package](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package/README.md)
 - 套件操作紀錄
 
-## [Build](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Build.md)
+## [Build](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Build/README.md)
 
-## [C# Note](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/C#-Note.md)
+## [C# Note](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/C%23%20Note/README.md)
 
-## [UI/UX](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/UIUX.md)
+## [UI/UX](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/UI-UX/README.md)
 
-## [Resource](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Resource.md)
+## [Resource](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/README.md)
 - CC0 / Free / 可商用
 
-## [Inspiration](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Inspiration.md)
+## [Inspiration](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/README.md)
 
 ## [Other](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Other.md)
