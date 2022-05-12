@@ -13,19 +13,24 @@ Scope(s):
 3. Package manager -> Packages: My Registries -> Install
 
 ## Dependency Injection
-* [VContainer]()
+* [VContainer]()    
+jp.hadashikick.vcontainer
 
 ## Rx
-* [UniRx]()
+* [UniRx]()    
+com.neuecc.unirx
 
 ## Async
-* [UniTask](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package/Async/UniTask.md)  
+* [UniTask](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package/Async/UniTask.md)    
+com.cysharp.unitask
 
 ## Messaging 
-* [MessagePipe]
+* [MessagePipe]    
+com.cysharp.messagepipe
 
 ## Animation
-* [DOTween]()
+* [DOTween]()    
+com.demigiant.dotween
 
 ## Media
 * [AudioMixer]()
