@@ -1,5 +1,16 @@
 ## Package Manager
-* [Installing Packages using UPM](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package/Async/UniTask.md)  
+
+### Installing Packages using UPM
+1. Package manager ->  Advanced project settings
+2. Add Scoped Registries
+
+```
+Name: package.openupm.com
+URL: https://package.openupm.com
+Scope(s): 
+         com.cysharp.unitask
+```
+3. Package manager -> Packages: My Registries -> Install
 
 ## Dependency Injection
 * [VContainer]()
