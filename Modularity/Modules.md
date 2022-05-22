@@ -1,7 +1,5 @@
-App / Feature / Core / Common / Shared Modules
-
 ## Modules
-這使我們能夠將項目分解為更小的離散單元以管理複雜性。
+我們能夠將項目分解為更小的離散單元以管理複雜性。
 
 ### App-Module
 此模塊了解整個應用程序，所有功能模塊都將包含在此(這裡不討論 Dynamic feature modules (DFM))。
@@ -10,15 +8,8 @@ App / Feature / Core / Common / Shared Modules
 ### Feature-Module
 此模塊是應用程序中特定功能的容器。理想情況下，它應該是小型的且獨立的。
 
-### Core-Module
-
-
-### Common-Module
-
-
-### Shared-Module
-
-
+### Core/Common/Shared -Module
+提供各模塊可重用的類(工具類/基類)。
 
 ### 模塊化的好處
 - 構建更快：並行構建/只構建已更改的模塊。
