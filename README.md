@@ -1,6 +1,9 @@
-## [Architecture](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Architecture/README.md)
+## Architecture
 - 紀錄研究過的架構與設計概念
 - 目前用的比較上手的模式
+
+## Modularity
+
 
 ## [Design Pattern](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Design%20Pattern/README.md)
 
