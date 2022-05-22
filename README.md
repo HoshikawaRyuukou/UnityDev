@@ -1,15 +1,49 @@
+## Precondition
+- SOLID
+- Inversion Of Control (IoC) / Denepency Injection (DI)
+- Don't repeat yourself（DRY）
+- Keep It Simple, Stupid （KISS）
+- You aren't gonna need it (YAGNI)
+
 ## Architecture
-- 紀錄研究過的架構與設計概念
-- 目前用的比較上手的模式
+- Clean Architecture
+- VIPER
+
+#### :framed_picture: Presentation
+- MVP / MVVM
+
+#### :compass: Navigation
+- FlowController
 
 ## Modularity
+- App / Feature / Core / Common / Shared Modules
+- Assembly definitions
+
+## Design Pattern
+- Factory 
+- Pub/Sub
+- Observer
+
+#### :warning: Anti
+不是不能使用，但使用上要小心後續引發的問題
+- Singleton
+- Service Locator
+
+## Package
+- Package Manager / UPM
+
+#### Built-in
+
+#### 3rd Party
 
 
-## [Design Pattern](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Design%20Pattern/README.md)
+
+
+
 
 ## [Test](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Test/README.md)
 
-## [Package](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package/README.md)
+
 - 套件操作紀錄
 
 ## [Build](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Build/README.md)
