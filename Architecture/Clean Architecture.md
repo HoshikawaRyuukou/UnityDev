@@ -36,8 +36,25 @@
 ### 框架和驅動層 Frameworks and Drivers
 UIs / 資料庫
 
+### Data transfer object (DTO)
+
+
+
 跨邊界
 
 ## 總結
 1.將軟體分層
 2.外層依賴內層
+
+
+<!-- 將一個段落隱藏看不見
+dto
+https://softwareengineering.stackexchange.com/questions/373284/what-is-the-use-of-dto-instead-of-entity
+
+
+
+
+
+-->
+
+
