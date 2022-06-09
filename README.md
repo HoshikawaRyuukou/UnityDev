@@ -18,7 +18,7 @@
 #### :floppy_disk: Data
 
 #### :compass: Navigation
-- FlowController
+- Coordinator / FlowController
 
 ## Modularity
 - App / Feature / Core / Common / Shared Modules
