@@ -9,8 +9,13 @@
 - Clean Architecture
 - VIPER
 
+#### :briefcase: Domain
+- [Observable Model](https://deimors.github.io/post/observable-models/) 
+
 #### :framed_picture: Presentation
 - MVP / MVVM
+
+#### :floppy_disk: Data
 
 #### :compass: Navigation
 - FlowController
@@ -22,8 +27,7 @@
 ## Design Pattern
 - Delegate
 - Factory 
-- Pub/Sub
-- Observer / Obseravle /Rx
+- Observer / Pub-Sub
 
 #### :warning: Anti
 不是不能使用，但使用上要小心後續引發的問題
@@ -36,7 +40,8 @@
 #### Built-in
 
 #### 3rd Party
-
+- Unirx
+- UniTask
 
 
 
