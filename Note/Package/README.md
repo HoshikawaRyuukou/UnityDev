@@ -13,27 +13,20 @@ Scope(s):
 3. Package manager -> Packages: My Registries -> Install
 
 ## Dependency Injection
-* [VContainer]()    
+* [VContainer](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Note/Package/Dependency%20Injection/VContainer.md)    
 jp.hadashikick.vcontainer
-- [Manual](https://vcontainer.hadashikick.jp/)
 
 ## Rx
-* [UniRx]()    
+* [UniRx](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Note/Package/Rx/UniRx.md)    
 com.neuecc.unirx
-- [又见Rx——Rx via UniRx](https://zhuanlan.zhihu.com/p/35189325)
-- [什么是UniRx?](https://www.ronpad.com/docs/tinax/unirx.html)
-- [Case : AddTo](https://teratail.com/questions/189104)
-
 
 ## Async
-* [UniTask](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package/Async/UniTask.md)    
+* [UniTask](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Note/Package/Async/UniTask.md)    
 com.cysharp.unitask
-- [UniTask使用笔记](https://blog.csdn.net/farcor_cn/article/details/119494954)
 
 ## Messaging 
-* [MessagePipe]    
+* [MessagePipe](https://github.com/HoshikawaRyuukou/UnityDev/main/Note/Package/Messaging/MessagePipe.md)    
 com.cysharp.messagepipe
-- [【Unity】最強のメッセージングライブラリ「MessagePipe」のメリットと使いどころを解説してみた](https://qiita.com/yoship1639/items/32ca894bda3b0db54a7b)
 
 ## Animation
 * [DOTween]()    
@@ -76,12 +69,6 @@ openupm add com.dbrizov.naughtyattributes
 ## TextMeshPro
 - [TextMeshPro Anatomy](https://gametorrahod.com/textmeshpro-anatomy/)
 
-## Rx
-* [UniRx](https://github.com/neuecc/UniRx)  
-P.S. [UniRx从入门到放弃](https://stonelzp.github.io/unirx-learning-note/)
-P.S. [UniRx官方入门文档](https://blog.csdn.net/JianZuoGuang/article/details/101937132)  
-P.S. [UniRx入门](https://lianbai.github.io/2019/09/23/Unity/UniRx%E5%85%A5%E9%97%A8/)  
-P.S. [IReadOnlyReactiveProperty](https://stackoverflow.com/questions/60884566/is-it-possible-to-make-ractiveproperty-public-get-private-set-in-unirx)
 
 ## DI
 - [VContainer](https://github.com/hadashiA/VContainer)  
