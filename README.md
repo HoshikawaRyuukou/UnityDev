@@ -9,7 +9,7 @@
 - Clean Architecture
 - VIPER
 
-#### :briefcase: Domain
+#### :briefcase: Model
 - [Observable Model](https://deimors.github.io/post/observable-models/) 
 
 #### :framed_picture: Presentation
