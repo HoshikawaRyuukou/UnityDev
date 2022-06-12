@@ -3,6 +3,17 @@
 
 ## Blog
 - [That Game Designer](https://medium.com/that-game-designer)
+- [IGDSHARE | 獨立遊戲開發者分享會](https://igdshare.org/)
+
+## Development
+- [LIGHT11](https://light11.hatenadiary.com/)
+- [きゅぶろぐ](https://blog.kyubuns.dev/)
+- [やらなイカ？](https://www.nowsprinting.com/)
+- [PG日誌](https://takap-tech.com/)
+- [Game Dev Beginner - Everyone Can Make Games](https://gamedevbeginner.com/)
+- [LianBai](https://lianbai.github.io/)
+- [Delta Timer](https://deltatimer.com/)
+- [ModooPlay](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5OTk1NjQ1MQ==&action=getalbum&album_id=1783236887017504778&scene=173&from_msgid=2247484889&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
 ---
 
