@@ -13,7 +13,7 @@
 - [Observable Model](https://deimors.github.io/post/observable-models/) 
 
 #### :framed_picture: Presentation
-- MVP / MVVM
+- MVX
 
 #### :floppy_disk: Data
 
@@ -27,7 +27,9 @@
 ## Design Pattern
 - Delegate
 - Factory 
-- Observer / Pub-Sub
+- Observer
+- Mediator
+- Builder
 
 #### :warning: Anti
 不是不能使用，但使用上要小心後續引發的問題
