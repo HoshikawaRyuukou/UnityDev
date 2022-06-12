@@ -15,18 +15,25 @@ Scope(s):
 ## Dependency Injection
 * [VContainer]()    
 jp.hadashikick.vcontainer
+- [Manual](https://vcontainer.hadashikick.jp/)
 
 ## Rx
 * [UniRx]()    
 com.neuecc.unirx
+- [又见Rx——Rx via UniRx](https://zhuanlan.zhihu.com/p/35189325)
+- [什么是UniRx?](https://www.ronpad.com/docs/tinax/unirx.html)
+- [Case : AddTo](https://teratail.com/questions/189104)
+
 
 ## Async
 * [UniTask](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Package/Async/UniTask.md)    
 com.cysharp.unitask
+- [UniTask使用笔记](https://blog.csdn.net/farcor_cn/article/details/119494954)
 
 ## Messaging 
 * [MessagePipe]    
 com.cysharp.messagepipe
+- [【Unity】最強のメッセージングライブラリ「MessagePipe」のメリットと使いどころを解説してみた](https://qiita.com/yoship1639/items/32ca894bda3b0db54a7b)
 
 ## Animation
 * [DOTween]()    
@@ -89,6 +96,7 @@ P.S. https://www.shibuya24.info/entry/dotween_async_await
 
 ## Dialogue 
 * [YarnSpinner-Unity](https://github.com/YarnSpinnerTool/YarnSpinner-Unity) - https://openupm.com/packages/dev.yarnspinner.unity/
+- [Manual](https://docs.yarnspinner.dev/)
 
 ## UI
 * Data Renderer 2D
