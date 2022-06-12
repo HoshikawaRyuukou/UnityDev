@@ -12,7 +12,3 @@
 
 #### :compass: Navigation
 - [Coordinator / FlowController](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Architecture/Coordinator%2C%20FlowController.md)
-
-## Modularity
-- App / Feature / Core / Common / Shared Modules
-- Assembly definitions
