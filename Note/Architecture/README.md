@@ -5,8 +5,13 @@
 #### :briefcase: Model
 - [Observable Model](https://deimors.github.io/post/observable-models/) 
 
+#### Use Case
+- Use Case
+- DTO
+
 #### :framed_picture: Presentation
 - MVX
+- ViewModel
 
 #### :floppy_disk: Data
 
