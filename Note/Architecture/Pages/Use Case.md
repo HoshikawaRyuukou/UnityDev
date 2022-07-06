@@ -1,3 +1,11 @@
+Use Case
+- https://www.andrew.cmu.edu/course/90-754/umlucdfaq.html
+- http://www.uml.org.cn/requirementproject/200808062.asp
+- https://stackoverflow.com/questions/61672209/i-want-to-create-a-use-case-diagram-of-a-brick-breaker-game-is-mine-correct
+- https://proandroiddev.com/fueled-reactive-apps-with-asynchronous-flow-part-1-use-case-migration-strategy-68840be77cf0
+- https://softwareengineering.stackexchange.com/questions/357052/clean-architecture-use-case-containing-the-presenter-or-returning-data
+
+
 <!-- 
 Clean架構的分層界定了邊界，帶來了能分工的好處，因為不必知道 上下界具體做了甚麼 表示層只在乎DTO 
 要給Usecase的Input與 Usecase給出Output
