@@ -1,0 +1,2 @@
+- [VIPER architecture: Our best practices to build an app like a boss](https://blog.cheesecakelabs.com/blog/best-practices-viper-architecture/)
+- [漫談 iOS 架構：從 MVC 到 VIPER，以及 Redux](https://chiahsien.github.io/post/common-ios-architecture-from-mvc-to-viper-with-redux/)
