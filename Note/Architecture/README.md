@@ -2,18 +2,20 @@
 - Clean Architecture
 - VIPER
 
-#### :briefcase: Model
+## Model
 - [Observable Model](https://deimors.github.io/post/observable-models/) 
 
-#### Use Case
+## Use Case
 - Use Case
+
+## Boundary
 - DTO
 
-#### :framed_picture: Presentation
-- MVX
-- ViewModel
+## Presentation
+- MVP
+- MVVM
 
-#### :floppy_disk: Data
+## Data
 
-#### :compass: Navigation
+## Navigation
 - [Coordinator / FlowController](https://github.com/HoshikawaRyuukou/UnityDev/blob/main/Architecture/Coordinator%2C%20FlowController.md)
