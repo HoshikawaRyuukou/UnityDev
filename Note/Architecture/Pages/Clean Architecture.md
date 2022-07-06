@@ -44,6 +44,20 @@ UIs / 資料庫
 * [Clean Architecture - An Introduction](https://www.dandoescode.com/blog/clean-architecture-an-introduction/)
 * [Clean Architecture with .NET Core: Getting Started](https://jasontaylor.dev/clean-architecture-getting-started/)
 
+- [架构学习之 mvp-clean](https://lilei.pro/2019/08/21/architecture-todo-mvp-clean/)
+> 作者為了緩解日益增大的Presenter導入Clean架構，並著重討論Usecase
+> - Clean 的核心思想是單向依賴，同心圓由外向內依賴，達到內層對外層一無所知，外層的變動不影響到內層。
+> - Use Case 是業務邏輯的最小抽象單元，在我理解上就是對原先的Presenter會操作到的Model與Service做一次封裝，讓Presenter專心於View的控制。
+<br>
+
+- [再談Clean Architecture三原則](http://teddy-chen-tw.blogspot.com/2020/08/clean-architecture.html)
+- [漫談 iOS 架構：從 MVC 到 VIPER，以及 Redux](https://chiahsien.github.io/post/common-ios-architecture-from-mvc-to-viper-with-redux/)
+- [Clean Architecture Guide (with tested examples): Data Flow != Dependency Rule](https://proandroiddev.com/clean-architecture-data-flow-dependency-rule-615ffdd79e29)
+- [Simple Clean Architecture Example for Unity](https://github.com/laicasaane/UnitySimpleCleanArchitecture)
+- [Learning Architecture, MessagePipe, and VContainer by Creating a Game Requested by My Own Daughter](https://medium.com/kadinche-engineering/learning-architecture-messagepipe-and-vcontainer-by-creating-a-game-requested-by-my-own-daughter-8ee8303a718)
+
+
+
 
 <!-- 將一個段落隱藏看不見
 dto
